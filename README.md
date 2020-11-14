@@ -2,7 +2,7 @@
 Repository of Patrick Koldenhof for the final Coursera assignment of the Getting and Cleaning Data course. 
 
 ## Data
-[Human Activity Recognition dataset: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+Human Activity Recognition dataset: <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
 ## Files
 1. CodeBook.md which contains the stepwise guide through the code and any modifications performed on the data. Futhermore it has information about the different datasets obtained and the used variables (features).
